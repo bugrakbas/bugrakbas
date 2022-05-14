@@ -4,14 +4,14 @@
 - 🔭 I’m currently working at Detaysoft
 - 📫 How to reach me bugrahanakbs@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugrakbas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrakbas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/bugrakbas) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/bugraakbass/) 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=bugrakbas&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=bugrakbas&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugrakbas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrakbas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
