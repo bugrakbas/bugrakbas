@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DetaySoft](https://detaysoft.com/tr-TR/index)
 
-- 🌱 I’m currently learning **.Net Framework**
+- 🌱 I’m currently learning **.Net**
 
 - 📫 How to reach me **bugrahanakbs@gmail.com**
 
