@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugrakbas" alt="bugrakbas" /></a> </p>
 
-- 🔭 I’m currently working on [DetaySoft](https://detaysoft.com/tr-TR/index)
-
 - 🌱 I’m currently learning **.Net**
 
 - 📫 How to reach me **bugrahanakbs@gmail.com**
